@@ -8,10 +8,10 @@
 
 <div align="center">
 
-<img src="assets/hero.svg" alt="Princy Ghetiya, AI/ML Engineer and Software Engineer. Engineering intelligent systems. Building software that scales." width="100%">
+<img src="hero.svg" alt="Princy Ghetiya, AI/ML Engineer and Software Engineer. Engineering intelligent systems. Building software that scales." width="100%">
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="hero.svg" alt="Machine learning, deep learning, NLP, maintainable software">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1800&color=67E8F9&center=true&vCenter=true&width=640&lines=Machine+learning+%26+statistical+modeling;Deep+learning+%26+neural+networks;Natural+language+processing;Maintainable%2C+tested+software" alt="Machine learning, deep learning, NLP, maintainable software">
 </a>
 
 </div>
