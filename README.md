@@ -40,39 +40,39 @@ I care about turning research ideas into software other people can run, test, an
 <tr>
 <td width="200"><b>Languages</b></td>
 <td>
-<img src="https://img.shields.io/badge/Python-0b1020?style=flat-square&logo=python&logoColor=22d3ee" alt="Python">
-<img src="https://img.shields.io/badge/SQL-0b1020?style=flat-square&logo=postgresql&logoColor=22d3ee" alt="SQL">
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=22d3ee" alt="Python">
+<img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=22d3ee" alt="SQL">
 <!-- Add your other languages here -->
 </td>
 </tr>
 <tr>
 <td><b>Machine Learning</b></td>
 <td>
-<img src="https://img.shields.io/badge/scikit--learn-0b1020?style=flat-square&logo=scikitlearn&logoColor=22d3ee" alt="scikit-learn">
+<img src="https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=22d3ee" alt="scikit-learn">
 <br><sub>Model selection · feature engineering · evaluation · statistical learning</sub>
 </td>
 </tr>
 <tr>
 <td><b>Deep Learning</b></td>
 <td>
-<img src="https://img.shields.io/badge/PyTorch-0b1020?style=flat-square&logo=pytorch&logoColor=22d3ee" alt="PyTorch">
-<img src="https://img.shields.io/badge/TensorFlow-0b1020?style=flat-square&logo=tensorflow&logoColor=22d3ee" alt="TensorFlow">
+<img src="https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=22d3ee" alt="PyTorch">
+<img src="https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=22d3ee" alt="TensorFlow">
 <br><sub>Neural networks · optimization · training workflows</sub>
 </td>
 </tr>
 <tr>
 <td><b>Data Science</b></td>
 <td>
-<img src="https://img.shields.io/badge/NumPy-0b1020?style=flat-square&logo=numpy&logoColor=22d3ee" alt="NumPy">
-<img src="https://img.shields.io/badge/pandas-0b1020?style=flat-square&logo=pandas&logoColor=22d3ee" alt="pandas">
-<img src="https://img.shields.io/badge/Matplotlib-0b1020?style=flat-square&logo=plotly&logoColor=22d3ee" alt="Matplotlib">
+<img src="https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=22d3ee" alt="NumPy">
+<img src="https://img.shields.io/badge/pandas-000000?style=flat-square&logo=pandas&logoColor=22d3ee" alt="pandas">
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=flat-square&logo=plotly&logoColor=22d3ee" alt="Matplotlib">
 <br><sub>Exploratory data analysis · data visualization</sub>
 </td>
 </tr>
 <tr>
 <td><b>NLP</b></td>
 <td>
-<img src="https://img.shields.io/badge/Hugging_Face-0b1020?style=flat-square&logo=huggingface&logoColor=22d3ee" alt="Hugging Face">
+<img src="https://img.shields.io/badge/Hugging_Face-000000?style=flat-square&logo=huggingface&logoColor=22d3ee" alt="Hugging Face">
 <br><sub>Text preprocessing · embeddings · text classification · language modeling · transformer-based methods</sub>
 </td>
 </tr>
@@ -85,11 +85,11 @@ I care about turning research ideas into software other people can run, test, an
 <tr>
 <td><b>Developer Tools</b></td>
 <td>
-<img src="https://img.shields.io/badge/Git-0b1020?style=flat-square&logo=git&logoColor=22d3ee" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-0b1020?style=flat-square&logo=github&logoColor=22d3ee" alt="GitHub">
-<img src="https://img.shields.io/badge/Linux-0b1020?style=flat-square&logo=linux&logoColor=22d3ee" alt="Linux">
-<img src="https://img.shields.io/badge/Docker-0b1020?style=flat-square&logo=docker&logoColor=22d3ee" alt="Docker">
-<img src="https://img.shields.io/badge/GitHub_Actions-0b1020?style=flat-square&logo=githubactions&logoColor=22d3ee" alt="GitHub Actions">
+<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=22d3ee" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=22d3ee" alt="GitHub">
+<img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=22d3ee" alt="Linux">
+<img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=22d3ee" alt="Docker">
+<img src="https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=22d3ee" alt="GitHub Actions">
 </td>
 </tr>
 <tr>
@@ -231,7 +231,7 @@ I care about turning research ideas into software other people can run, test, an
 ## Engineering Practices
 
 <div align="center">
-<img src="assets/neural-network.svg" alt="Diagram of a five-layer feed-forward neural network" width="70%">
+<img src="neural-network.svg" alt="Diagram of a five-layer feed-forward neural network" width="70%">
 </div>
 
 <br>
@@ -266,13 +266,13 @@ These are the practices I apply to ML work. Each links to a repository that demo
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0891b2&icon_color=7c3aed&text_color=334155">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=050816&title_color=22d3ee&icon_color=a78bfa&text_color=cbd5e1" alt="GitHub profile summary for YOUR_GITHUB_USERNAME" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=000000&title_color=22d3ee&icon_color=a78bfa&text_color=cbd5e1" alt="GitHub profile summary for YOUR_GITHUB_USERNAME" height="170">
 </picture>
 </a>
 <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=ffffff&title_color=0891b2&text_color=334155">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=050816&title_color=22d3ee&text_color=cbd5e1" alt="Most used languages for YOUR_GITHUB_USERNAME" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=000000&title_color=22d3ee&text_color=cbd5e1" alt="Most used languages for YOUR_GITHUB_USERNAME" height="170">
 </picture>
 </a>
 
@@ -281,7 +281,7 @@ These are the practices I apply to ML work. Each links to a repository that demo
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=ffffff&ring=0891b2&fire=7c3aed&currStreakLabel=0891b2&sideLabels=334155&currStreakNum=334155&sideNums=334155&dates=64748b">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=050816&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee&sideLabels=cbd5e1&currStreakNum=cbd5e1&sideNums=cbd5e1&dates=94a3b8" alt="Contribution streak for YOUR_GITHUB_USERNAME" height="170">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=000000&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee&sideLabels=cbd5e1&currStreakNum=cbd5e1&sideNums=cbd5e1&dates=94a3b8" alt="Contribution streak for YOUR_GITHUB_USERNAME" height="170">
 </picture>
 </a>
 
@@ -290,7 +290,7 @@ These are the practices I apply to ML work. Each links to a repository that demo
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true&bg_color=ffffff&color=0891b2&line=7c3aed&point=334155&area=true&area_color=22d3ee">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true&bg_color=050816&color=22d3ee&line=8b5cf6&point=e2e8f0&area=true&area_color=22d3ee" alt="Contribution activity graph for YOUR_GITHUB_USERNAME" width="95%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true&bg_color=000000&color=22d3ee&line=8b5cf6&point=e2e8f0&area=true&area_color=22d3ee" alt="Contribution activity graph for YOUR_GITHUB_USERNAME" width="95%">
 </picture>
 </a>
 
@@ -304,13 +304,13 @@ These are the practices I apply to ML work. Each links to a repository that demo
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0b1020?style=flat-square&logo=gmail&logoColor=22d3ee" alt="Email YOUR_EMAIL"></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0b1020?style=flat-square&logo=linkedin&logoColor=22d3ee" alt="LinkedIn profile"></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0b1020?style=flat-square&logo=googlechrome&logoColor=22d3ee" alt="Portfolio website"></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-0b1020?style=flat-square&logo=github&logoColor=22d3ee" alt="GitHub profile"></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=22d3ee" alt="Email YOUR_EMAIL"></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=22d3ee" alt="LinkedIn profile"></a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=22d3ee" alt="Portfolio website"></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=22d3ee" alt="GitHub profile"></a>
 
 <br><br>
 
-<img src="assets/footer.svg" alt="Closing banner" width="100%">
+<img src="footer.svg" alt="Closing banner" width="100%">
 
 </div>
